@@ -2,6 +2,10 @@
 
 **ElasticLine** is a customizable React component that animates a bending line with text, providing a dynamic visual effect on mouse movement. This component is built using React and GSAP (GreenSock Animation Platform), and is designed for use in modern web applications with Vite.
 
+<div >
+<a href="https://www.buymeacoffee.com/ahmedsaid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
+
 ## Features
 
 - **Customizable Appearance:** Easily change line color, text color, font size, and more through props.
