@@ -31,6 +31,14 @@
     "gsap",
     "svg"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmeddSaid/elastic-line-package-repo.git"
+  },
+  "homepage": "https://elastic-line.ahmedsaidadnan.com/",
+  "bugs": {
+    "url": "https://github.com/AhmeddSaid/elastic-line-package-repo/issues"
+  },
   "author": "Ahmed Said",
   "license": "MIT"
 }
