@@ -1,6 +1,6 @@
 {
   "name": "elastic-line",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "A React component that creates a bending elastic line animation using GSAP.",
   "main": "src/ui/ElasticLine.jsx",
   "module": "src/ui/ElasticLine.jsx",
