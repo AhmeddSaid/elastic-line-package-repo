@@ -1,0 +1,36 @@
+{
+  "name": "elastic-line",
+  "version": "1.4.1",
+  "description": "A React component that creates a bending elastic line animation using GSAP.",
+  "main": "src/ui/ElasticLine.jsx",
+  "module": "src/ui/ElasticLine.jsx",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "gsap": "^3.12.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.8"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "gsap",
+    "svg"
+  ],
+  "author": "Ahmed Said",
+  "license": "MIT"
+}
