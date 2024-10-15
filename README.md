@@ -30,7 +30,7 @@ yarn add elastic-line
 If you are using **Bun**, you can install it with:
 
 ```bash
-bun add elastic-line
+bun install elastic-line
 ```
 
 ## Usage
